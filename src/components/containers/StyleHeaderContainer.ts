@@ -11,14 +11,5 @@ export const StyleHeaderContainer = styled.div`
     justify-content: space-between;
     align-items: center;
 
-    h1{
-        color: var(--grey-100);
-        font-weight: 800;
-    }
 
-    svg{
-        color: var(--grey-100);
-        width: 40px;
-        height: 40px;
-    }
 `
